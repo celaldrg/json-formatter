@@ -1,0 +1,11 @@
+{
+  "name": "json-formatter",
+  "version": "1.0.0",
+  "description": "Format, validate, repair, explore, query and diff JSON in the browser with a hand-written parser that reports exact error positions.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
